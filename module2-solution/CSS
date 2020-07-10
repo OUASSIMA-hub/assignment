@@ -1,1 +1,40 @@
+#p1 {
+  height: 200px;
+  width: 400px;
+  background-color: grey;
+  float: left;
+  margin-left: 100px;
+}
+#p2 {
+  height: 200px;
+  width: 400px;
+  background-color: grey;
+  float: left;
+  margin-left: 90px;
 
+}
+#p3 {
+  height: 200px;
+  width: 400px;
+  background-color: grey;
+  float: right;
+  margin-right: 100px;
+ }
+div.content{
+	height: 20px;
+	width: 100px;
+	border: 1px solid black;
+	float: left;
+	margin: 20px;
+	text-align: right;
+}
+div#first{
+	background-color: pink;
+}
+div#second{
+	background-color: red;
+	color: white;
+}
+div#third{
+	background-color: yellow;
+}
